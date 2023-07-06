@@ -12,7 +12,7 @@ df = pandas.DataFrame(columns = ["Start", "End"])
 video = cv2.VideoCapture(0)
 
 while True:
-	check, frame = video.ead()
+	check, frame = video.read()
 
 	motion = 0
 
