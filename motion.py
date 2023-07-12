@@ -5,7 +5,7 @@ static_back = None
 
 motion_list = [ None, None ]
 
-time = [
+time = []
 
 df = pandas.DataFrame(columns = ["Start", "End"])
 
