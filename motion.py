@@ -3,7 +3,7 @@ from datetime import datetime
 
 static_back = None
 
-motion_list = [ None, None ]
+motion_list = [ None, None 
 
 time = []
 
