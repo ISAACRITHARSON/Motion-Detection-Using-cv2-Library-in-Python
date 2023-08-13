@@ -7,7 +7,7 @@ motion_list = [ None, None ]
 
 time = []
 
-df = pandas.DataFrame(columns = ["Start", "End"]
+df = pandas.DataFrame(columns = ["Start", "End"])
 
 video = cv2.VideoCapture(0)
 
